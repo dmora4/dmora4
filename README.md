@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently learning about NLP models and LLVMs.
-I'm currently contributing to my ALPI NLP project.
-I'm most excited about my uwb-rtls project, network measurements class project, telco databases project, space project, and hypermedia project!
+I'm currently contributing to my RTLS software in C++.
+I'm most excited about my RTLS project, network measurements class project, telco databases project, space project, and hypermedia project!
 
 
 # 💻 Tech Stack:
